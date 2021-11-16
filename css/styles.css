@@ -84,7 +84,7 @@ section {
 }
 
 .main-content {
-    width: calc(100%-60px);
+    width: calc(100% - 60px);
     padding: 0 30px;
     color: var(--main-text-color);
     background-color: var(--main-bg-color);
