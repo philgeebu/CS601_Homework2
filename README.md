@@ -1,1 +1,1 @@
-# CS601_Homework2
+This is my submission for Homework 2.
